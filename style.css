@@ -25,6 +25,13 @@ body.green {
   --bg-card: url(./assets/bg-green.svg);
 }
 
+body.pink {
+  --card-color-primary: #7c0472;
+  --title-border-card-color: #d31386;
+  --card-bg-color: #3f2b3f;
+  --bg-card: url(./assets/bg-pink.svg);
+}
+
 ul {
   list-style: none;
 }
