@@ -102,3 +102,20 @@ header {
 .card ul li img:hover {
   transition: transform 0.3s;
 }
+
+/*animations*/
+.card {
+  opacity: 0;
+  animation: appear .5s forwards;
+}
+
+@keyframes appear {
+  0% {
+    transform: translateY(-50px);
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
