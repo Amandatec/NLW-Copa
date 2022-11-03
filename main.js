@@ -19,15 +19,12 @@ function createCard (date,day, games){
   </div>
   `
 } 
-/*
-document.querySelector("#app").innerHTML = `
 
-<main id="cards">
-  ${createCard("24/11", "Quinta", createGame("brazil", "16:00", "serbia") + createGame("southkorea", "12:00", "senegal") + createGame("uruguay", "17:00", "unitedstates") + createGame("brazil", "14:00", "serbia")  )}
+document.querySelector("#cards").innerHTML = 
 
-  ${createCard("28/11", "Segunda", createGame("brazil", "13:00", "switzerland") + createGame("argentina", "12:00", "spain"))}
 
-  ${createCard("02/12", "sexta", createGame("cameroon", "16:00", "brazil"))}
+  createCard("24/11", "Quinta", createGame("brazil", "16:00", "serbia") + createGame("southkorea", "12:00", "senegal") + createGame("uruguay", "17:00", "unitedstates") + createGame("brazil", "14:00", "serbia"))+
 
-</main>
-`*/
+  createCard("28/11", "Segunda", createGame("brazil", "13:00", "switzerland") + createGame("argentina", "12:00", "spain"))+
+
+  createCard("02/12", "sexta", createGame("cameroon", "16:00", "brazil"))
