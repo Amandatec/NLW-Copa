@@ -59,6 +59,14 @@ header {
   text-align: center;
 }
 
+.tema button{
+  background-color: rgb(239, 219, 219);
+  padding: 8px;
+  border-radius: 15px ;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
 #cards {
   display: flex;
   flex-direction: column;
