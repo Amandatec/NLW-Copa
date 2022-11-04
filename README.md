@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="nlwcopa" src=".github/nlwcopa.png" width="100%">
+  <img alt="nlwcopa" src=".github/nlwcopa.PNG" width="70%" heigth="50%">
 </p>
 
 ## 🚀 Tecnologias
