@@ -16,10 +16,19 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <br>
-
+<p align="center">Projeto original</p>
 <p align="center">
-  <img alt="nlwcopa" src=".github/nlwcopa.PNG" width="70%" heigth="50%">
+  <img alt="nlwcopa" src=".github/original.PNG" width="70%" heigth="50%">
 </p>
+
+<p align="center">Projeto atualizado por mim</p>
+<p align="center">
+  <img alt="nlwcopa" src=".github/nlw_atualizado.png" width="70%" heigth="50%">
+</p>
+
+## 🛠 Atualizações feitas por mim
+
+Implementei uma função para trocar o tema da tela através do botão Alterar Tema, e inseri o nome dos paísesembaixo de suas respectivas bandeiras.
 
 ## 🚀 Tecnologias
 
