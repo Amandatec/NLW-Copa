@@ -23,7 +23,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <p align="center">Projeto atualizado por mim</p>
 <p align="center">
-  <img alt="nlwcopa" src=".github/nlw_atualizado.png" width="70%" heigth="50%">
+  <img alt="nlwcopa" src=".github/nlw_atualizado.PNG" width="70%" heigth="50%">
 </p>
 
 ## 🛠 Atualizações feitas por mim
