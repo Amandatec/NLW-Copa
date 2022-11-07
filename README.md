@@ -28,7 +28,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 ## 🛠 Atualizações feitas por mim
 
-Implementei uma função para trocar o tema da tela através do botão Alterar Tema, e inseri o nome dos paísesembaixo de suas respectivas bandeiras.
+Implementei uma função para trocar o tema da tela através do botão Alterar Tema, e inseri o nome dos países embaixo de suas respectivas bandeiras.
 
 ## 🚀 Tecnologias
 
@@ -52,4 +52,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat e Amandatc :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat e Amandatech :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
