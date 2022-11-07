@@ -41,7 +41,8 @@ body {
   background-image: var(--bg-card);
   background-position: top center;/*y=top e x =center*/
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
+
 }
 
 body * {
@@ -111,9 +112,9 @@ header {
 
   width: 270px;
 }
+
 .card ul li {
   display: flex;
-  align-items: center;
   justify-content: space-between;
 }
 
