@@ -119,8 +119,9 @@ header {
   justify-content: space-between;
 }
 
-.card ul li  {
+.card ul li p{
   color: var(--text-color);
+  text-transform: capitalize
 }
 
 .card ul li + li {
