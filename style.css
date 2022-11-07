@@ -9,6 +9,7 @@
   --title-border-card-color: #746615;
   --card-bg-color: #1d1c19;
   --bg-card: url(./assets/bg.svg);
+  --text-color: #E1E1E6;
 }
 
 body.blue {
@@ -100,7 +101,7 @@ header {
 }
 
 .card h2 span {
-  color: #E1E1E6;
+  color: var(--text-color);
   font-size: 14px;
   text-transform: uppercase;
 }
@@ -116,6 +117,10 @@ header {
 .card ul li {
   display: flex;
   justify-content: space-between;
+}
+
+.card ul li  {
+  color: var(--text-color);
 }
 
 .card ul li + li {
